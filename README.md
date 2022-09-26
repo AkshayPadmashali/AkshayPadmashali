@@ -1,4 +1,7 @@
-<h1 align="center">HI,  I'm 👨‍💻 Akshay Padmashali <br><h4>Nice to meet you</h4></h1>
+<p>
+<h1 align="center">HI,  I'm 👨‍💻 Akshay Padmashali </h1>
+<h4 align="center">Nice to meet you</h4>
+</p>
 
 <h3 align="center">A goal oriented and ambitious person with a passion for programming and a front end developer.</h3>
 
