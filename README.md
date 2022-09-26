@@ -1,4 +1,5 @@
-<h1 align="center">I'm 👨‍💻 Akshay Padmashali, Nice to meet you</h1>
+<h1 align="center">HI,  I'm 👨‍💻 Akshay Padmashali </h1>
+<p>Nice to meet you</p>
 <h3 align="center">A goal oriented and ambitious person with a passion for programming and a front end developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/aky_padmashali" target="blank"><img src="https://img.shields.io/twitter/follow/aky_padmashali?logo=twitter&style=for-the-badge" alt="aky_padmashali" /></a> </p>
