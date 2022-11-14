@@ -1,8 +1,4 @@
-<p>
-<h1 align="center">HI,  I'm 👨‍💻 Akshay Padmashali </h1>
-<h4 align="center">Nice to meet you</h4>
-</p>
-
+<h1 align="center">I'm 👨‍💻 Akshay Padmashali, Nice to meet you</h1>
 <h3 align="center">A goal oriented and ambitious person with a passion for programming and a front end developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/aky_padmashali" target="blank"><img src="https://img.shields.io/twitter/follow/aky_padmashali?logo=twitter&style=for-the-badge" alt="aky_padmashali" /></a> </p>
@@ -17,7 +13,7 @@
 
 - 📫 How to reach me **akshaypadmashali112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KSBFK-m0CnNcizLr3Zgf3v87OFxLYuUs/view?usp=sharing](https://drive.google.com/file/d/1KSBFK-m0CnNcizLr3Zgf3v87OFxLYuUs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tIldFgcZFrEP82kRQaMujaUenhxPYjgE/view?usp=share_link](https://drive.google.com/file/d/1tIldFgcZFrEP82kRQaMujaUenhxPYjgE/view?usp=share_link)
 
 - ⚡ Fun fact **I am very friendly and a funny person**
 
@@ -38,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaypadmashali&show_icons=true&locale=en" alt="akshaypadmashali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypadmashali&" alt="akshaypadmashali" /></p>
-<h1 align="center">Have a splendid day! </h1>
