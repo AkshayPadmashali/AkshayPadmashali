@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1n8jcBvo86v83shFboNUvvw45aXTDn_RB/view?usp=sharing](https://drive.google.com/file/d/1n8jcBvo86v83shFboNUvvw45aXTDn_RB/view?usp=sharing)
 
-- ⚡ Fun fact **I am very friendly and a funny person**
+- ⚡ Coolest thing is **I am very friendly and energetic person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
